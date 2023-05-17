@@ -37,3 +37,6 @@ jobs:
         with:
           commit_message: Initial repo setup
           commit_options: "--no-verify --signoff"
+          repository: .
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
