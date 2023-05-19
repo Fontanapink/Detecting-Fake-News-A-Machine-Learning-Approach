@@ -18,3 +18,5 @@ Find the dataset you will be working with. Describe the dataset and the problem 
 - [ ] Dump everything we think of and vote on sunday
 - [ ] Preprocessing data
 - [ ] When to Meet
+- [ ] Plan for end of project
+- [ ] Set internal deadlines
