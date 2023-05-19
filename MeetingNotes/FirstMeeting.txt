@@ -1,0 +1,46 @@
+Meeting Notes:
+
+Who are the stakeholders?
+ - who are we delivering to?
+ 
+What is the deliverable?
+ - Model to consume news and predict
+ - High level insight to go through entire source and rank them
+ - How do other people know the deliverable is successful?
+   - Metric for accuracy
+   - Reasonable metrics will be found with basic exploration or literature review. If other publications are found we should meet their metrics or can be slightly worse.
+ 
+What is the data set?
+ - when you know stakeholders and deliverables.
+ 
+Data scientist related deliverable
+ - Model might be better
+ 
+Social media user
+ - User friendly app to say if social media post is realm or not
+
+Mentor Left
+
+Deliverable
+  - Model
+    - is it fake or not
+    - input to model can be what the topic is (Ukraine,COVID,Politics)
+    - Calculate other metrics, grammatical errors, in preprocessing 
+Potential Future directions
+A deliverable that could be fed any data set and then produce a model on its own
+Stakeholder
+  - Lots of people could be interested in this topic
+  - News source wants to check submissions for truth
+	- Want something they can run submissions through to get a metric for truthfulness
+    - Model that they can train with classified data to use
+Data Sets
+  - Vaccine hesitancy, Political fake news, other
+  - Kaggle set has a high
+  - politifact has marker or true or false
+	- Also has domains to test on
+
+To DO
+First deliverable
+Data set
+Preprocessing
+Individual tasks
