@@ -11,3 +11,10 @@ Find the dataset you will be working with. Describe the dataset and the problem 
 [Datasets](https://docs.google.com/document/d/1ZAJRoiReq_z9ilW6BCkTsyaTOXu-gpDJs10uEqnFxuU/edit?usp=sharing)
 
 [Ideas for Final Presesntaion / Future Work](https://docs.google.com/document/d/1T8lCy2qAjvcLXcrrfsuiwQAvY7i7cMD7Fh3RMFQyEWU/edit?usp=sharing)
+
+
+## To Do List:
+- [ ] Data Set
+- [ ] Dump everything we think of and vote on sunday
+- [ ] Preprocessing data
+- [ ] When to Meet
