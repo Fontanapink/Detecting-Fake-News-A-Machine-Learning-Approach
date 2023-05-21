@@ -19,6 +19,8 @@ The spread of misinformation, or "fake news," is a significant issue in today's 
 
 ## Documents
 
+[Ideas/concerns/opinions for project](https://docs.google.com/document/d/1DNczb1nMEhkRcQA6TphjL8hI46tRyMtm9uL3yfk-20M/edit?usp=sharing)
+
 [Stakeholders, Deliverables, and Dataset document](https://docs.google.com/document/d/11QYoArg_Tspz9DMUaUZW-JQ5L7bWfVSuiV1cnxe9IOw/edit?usp=sharing)
 
 [Datasets](https://docs.google.com/document/d/1ZAJRoiReq_z9ilW6BCkTsyaTOXu-gpDJs10uEqnFxuU/edit?usp=sharing)
