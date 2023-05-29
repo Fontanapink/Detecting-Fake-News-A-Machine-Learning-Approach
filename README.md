@@ -27,6 +27,8 @@ The spread of misinformation, or "fake news," is a significant issue in today's 
 
 [Ideas for Final Presentation / Future Work](https://docs.google.com/document/d/1T8lCy2qAjvcLXcrrfsuiwQAvY7i7cMD7Fh3RMFQyEWU/edit?usp=sharing)
 
+[Final Presentation](https://docs.google.com/presentation/d/1kVk1IUnFhH4zG_ar8WkQFQJYWjOv9jYq3tiJ93qjXNY/edit?usp=sharing)
+
 
 
 ### Erdos soft deadlines:
