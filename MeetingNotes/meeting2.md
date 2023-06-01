@@ -19,7 +19,7 @@ For this project to be successful, do especially consider a feature that others 
 If you have time, try to use one or two of the following models to analyze our dataset, suggested by Pedro and Thomas:
 - Gaussian processes (Pedro)
 - TF-IDF and PCA
-- Naive Bayes
+- Naive Bayes (Guillermo)
 - n-gram
 - Word2vec and logistics regression
 - RNN/LSTM
