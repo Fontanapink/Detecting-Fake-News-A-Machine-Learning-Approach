@@ -29,17 +29,22 @@ Some of the synthetic features we are going to create are:
 - Topic modeling of the article using BERT
 
 ## Team Members
+- Man Chaung Tsui 
 - Pedro Fontanarrosa
-- Daniel Gao
+- Guillermo Lezama
+- Shayne Plourde
+- Nishad Mandlik
+- Prithvijit Mukherjee
 
+-
 -----------
 
 ## Folder descriptions:
-- EDA: Contains the exploratory data analysis notebooks
-- Datasets: Contains the datasets used in the project
-- Models: Contains the machine learning models used in the project
-- Meeting Notes: Contains the meeting notes from the weekly meetings
-- Housekeeping files (README, .gitignore, .vscode, etc.)
+- **EDA**: Contains the exploratory data analysis notebooks
+- **Datasets**: Contains the datasets used in the project
+- **Models**: Contains the machine learning models used in the project
+- **Meeting Notes**: Contains the meeting notes from the weekly meetings
+- **Housekeeping files** (README, .gitignore, .vscode, etc.)
 
 
 ## Documents
