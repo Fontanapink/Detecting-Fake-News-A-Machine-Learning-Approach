@@ -22,7 +22,7 @@ In this project, we are using known classifier models to predict if news article
 Some of the synthetic features we are going to create are:
 - The number of grammatical and spelling errors in the article
 - The number of times the article uses the word "I" or "me"
-- The use of emmotional words in the article
+- The use of emotional words in the article
 - The number of words used with capital letters
 - The use of numbers in the article
 - The use of long words (more than 10, 15 characters) in the article
@@ -36,7 +36,7 @@ Some of the synthetic features we are going to create are:
 - Nishad Mandlik
 - Prithvijit Mukherjee
 
--
+
 -----------
 
 ## Folder descriptions:
