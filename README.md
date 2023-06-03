@@ -59,6 +59,7 @@ Some of the synthetic features we are going to create are:
 
 [Final Presentation](https://docs.google.com/presentation/d/1kVk1IUnFhH4zG_ar8WkQFQJYWjOv9jYq3tiJ93qjXNY/edit?usp=sharing)
 
+[Executive Summary](https://docs.google.com/document/d/1jcGQdHwWZCVu5ClUHBHc-qOfV2V9UTBJ1Hv9uZvHj7s/edit?usp=sharing)
 
 
 ## Erdos deadlines:
