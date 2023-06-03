@@ -29,9 +29,9 @@ Some of the synthetic features we are going to create are:
 - Topic modeling of the article using BERT
 
 ## Team Members
-- Man Chaung Tsui 
 - Pedro Fontanarrosa
 - Guillermo Lezama
+- Man Cheung Tsui 
 - Shayne Plourde
 - Nishad Mandlik
 - Prithvijit Mukherjee
@@ -60,30 +60,6 @@ Some of the synthetic features we are going to create are:
 [Final Presentation](https://docs.google.com/presentation/d/1kVk1IUnFhH4zG_ar8WkQFQJYWjOv9jYq3tiJ93qjXNY/edit?usp=sharing)
 
 [Executive Summary](https://docs.google.com/document/d/1jcGQdHwWZCVu5ClUHBHc-qOfV2V9UTBJ1Hv9uZvHj7s/edit?usp=sharing)
-
-
-## Erdos deadlines:
-
-#### Data gathering and defining stakeholders + KPIs - May 19, 2023
-Find the dataset you will be working with. Describe the dataset and the problem you are looking to solve (1 page max). List the stakeholders of the project and company key performance indicators (KPIs) (bullet points).
-
-#### Data cleaning + preprocessing - May 19, 2023
-
-Look for missing values and duplicates. Basic data manipulation & preliminary feature engineering.
-
-#### Exploratory data analysis + visualizations [Checkpoint] - May 26, 2023
-
-Distributions of variables, looking for outliers, etc. Descriptive statistics.
-
-#### Written proposal of modeling approach [Checkpoint] - May 26, 2023
-
-Test linearity assumptions. Dimensionality reductions (if necessary). Describe your planned modeling approach, based on the exploratory data analysis from the last two weeks (< 1 page, bullet points).
-
-#### Machine learning models or equivalent [Checkpoint] - Jun 1, 2023
-
-Results with visualizations and/or metrics. List of successes and pitfalls.
-
-#### Final project due - Jun 3, 2023
 
 
 
