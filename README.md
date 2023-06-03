@@ -5,15 +5,7 @@
   - [Project Description](#project-description)
   - [Team Members](#team-members)
   - [Folder descriptions:](#folder-descriptions)
-  - [Documents](#documents)
-  - [Erdos deadlines:](#erdos-deadlines)
-      - [Data gathering and defining stakeholders + KPIs - May 19, 2023](#data-gathering-and-defining-stakeholders--kpis---may-19-2023)
-      - [Data cleaning + preprocessing - May 19, 2023](#data-cleaning--preprocessing---may-19-2023)
-      - [Exploratory data analysis + visualizations \[Checkpoint\] - May 26, 2023](#exploratory-data-analysis--visualizations-checkpoint---may-26-2023)
-      - [Written proposal of modeling approach \[Checkpoint\] - May 26, 2023](#written-proposal-of-modeling-approach-checkpoint---may-26-2023)
-      - [Machine learning models or equivalent \[Checkpoint\] - Jun 1, 2023](#machine-learning-models-or-equivalent-checkpoint---jun-1-2023)
-      - [Final project due - Jun 3, 2023](#final-project-due---jun-3-2023)
-
+  
 ## Project Description
 The spread of misinformation, or "fake news," is a significant issue in today's digital society. This project aims to tackle this challenge by developing a machine-learning model capable of analyzing news articles and classifying them as "real" or "fake."
 
@@ -45,21 +37,5 @@ Some of the synthetic features we are going to create are:
 - **Models**: Contains the machine learning models used in the project
 - **Meeting Notes**: Contains the meeting notes from the weekly meetings
 - **Housekeeping files** (README, .gitignore, .vscode, etc.)
-
-
-## Documents
-
-[Ideas/concerns/opinions for project](https://docs.google.com/document/d/1DNczb1nMEhkRcQA6TphjL8hI46tRyMtm9uL3yfk-20M/edit?usp=sharing)
-
-[Stakeholders, Deliverables, and Dataset document](https://docs.google.com/document/d/11QYoArg_Tspz9DMUaUZW-JQ5L7bWfVSuiV1cnxe9IOw/edit?usp=sharing)
-
-[Datasets](https://docs.google.com/document/d/1ZAJRoiReq_z9ilW6BCkTsyaTOXu-gpDJs10uEqnFxuU/edit?usp=sharing)
-
-[Ideas for Final Presentation / Future Work](https://docs.google.com/document/d/1T8lCy2qAjvcLXcrrfsuiwQAvY7i7cMD7Fh3RMFQyEWU/edit?usp=sharing)
-
-[Final Presentation](https://docs.google.com/presentation/d/1kVk1IUnFhH4zG_ar8WkQFQJYWjOv9jYq3tiJ93qjXNY/edit?usp=sharing)
-
-[Executive Summary](https://docs.google.com/document/d/1jcGQdHwWZCVu5ClUHBHc-qOfV2V9UTBJ1Hv9uZvHj7s/edit?usp=sharing)
-
 
 
